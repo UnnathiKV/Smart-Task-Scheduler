@@ -28,4 +28,4 @@ The **Smart Task Scheduler** is a JavaFX-based desktop application designed to h
    ---
 
 ## Output Screenshot
-Sample Output:**https://github.com/UnnathiKV/Java-GUI-ToDo-App/blob/main/task6.png**
+Sample Output:**https://github.com/UnnathiKV/Smart-Task-Scheduler/blob/main/SmartTaskScheduler.jpg**
